@@ -1,0 +1,8 @@
+#bloco-01{
+    display: flex;
+    background-color: rgb(197, 228, 255);
+    border-radius: 35px;
+}
+.txt1{
+    margin-top: 70px;
+}
